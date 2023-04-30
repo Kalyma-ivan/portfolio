@@ -2,7 +2,7 @@
     padding-top: 60px;
     &__wrapper {
         margin-top: 60px;
-        padding: 0 25px 0 25px;
+        // padding: 0 25px 0 25px;
         display: grid;
         grid-template-columns: repeat(2, 365px);
         grid-template-rows: repeat(3, minmax(45px, auto));
